@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(200, 300, 250, 0.5);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+    vertical-align: baseline;
+    height: 100vh;
+    text-overflow: hidden;
+}
+
+p {
+    text-decoration: blink; 
+}
