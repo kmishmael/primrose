@@ -1,0 +1,39 @@
+* {
+    box-sizing: flex-box;
+}
+
+body {
+
+    justify-content: center;
+    text-align: center;
+    margin: 30px 0;
+    height: 50vh;
+    overflow: hidden;
+    margin-left: 30%;
+}
+
+.container-body {
+    border: 1px solid red ;
+
+}
+.container {
+    border: 1px solid red ;
+}
+.image {
+    border: 1px solid red ;
+}
+.desc {
+    border: 1px solid red ;
+}
+.days {
+    border: 1px solid red ;
+}
+.footer {
+    border: 1px solid red ;
+}
+.avatar {
+    border: 1px solid red ;
+}
+.author {
+    border: 1px solid red ;
+}
