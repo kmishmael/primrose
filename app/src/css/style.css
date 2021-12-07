@@ -11,13 +11,13 @@ body {
     overflow: hidden;
     margin-left: 30%;
     z-index: -1;
+    color: black;
 }
 
 .container-fluid {
     background-color:  hsl(210, 60%, 12%);
     height: 100%;
-    width: 1400px;
-    margin: 0;
+    max-width: 1400px;
     position: relative;
     
 
